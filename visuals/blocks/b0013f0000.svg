@@ -1,9 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30">
-<path fill="#BF40BF" stroke="none" d="
-M 30 5
-L 30 0 17.5 0 17.5 0 12.5 0 12.5 0 0 0 0 5 12.5 5 12.5 30 17.5 30 17.5 5 30 5 Z"/>
-<path fill="#505050" stroke="none" d="
-M 0 5
-L 0 30 30 30 30 5 0 5 Z"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 60" width="30" height="60">
+	<title>New Project</title>
+	<defs>
+		<image width="30" height="30" id="img1" href="data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMwcHgiIGhlaWdodD0iMzBweCIgdmlld0JveD0iMCAwIDMwIDMwIj4KPHBhdGggZmlsbD0iI0JGNDBCRiIgc3Ryb2tlPSJub25lIiBkPSIKTSAzMCA1CkwgMzAgMCAxNy41IDAgMTcuNSAwIDEyLjUgMCAxMi41IDAgMCAwIDAgNSAxMi41IDUgMTIuNSAzMCAxNy41IDMwIDE3LjUgNSAzMCA1IFoiLz4KPHBhdGggZmlsbD0iIzUwNTA1MCIgc3Ryb2tlPSJub25lIiBkPSIKTSAwIDUKTCAwIDMwIDMwIDMwIDMwIDUgMCA1IFoiLz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="b0013f0000" href="#img1" transform="matrix(1,0,0,1,0,30)"/>
 </svg>
