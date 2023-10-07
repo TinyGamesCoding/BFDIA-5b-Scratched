@@ -1,68 +1,9 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30">
-<defs>
-<path id="Symbol_144_7_Layer1_0_1_STROKES" stroke="#FFFF00" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
-M 7.1 -9.75
-L 10.95 -6.85 9.7 -3.1 12.6 -0.5
-M -4.15 -3.85
-L 4.6 -7.75 9.7 -3.1
-M -8.25 -17.8
-L -13.1 -18.2
-M -3.9 -10.65
-L -9.35 -15.35 -7.1 -18.7
-M -6.4 -8.85
-L -3.05 0.15 -8.3 3.15 -9.9 4 -6.95 6.9 -6.65 6.65
-M -12.4 -3.5
-L -14.6 -1.3 -13.3 3.4
-M -6.95 6.9
-L -3.4 10.4 -2.15 17.4
-M -5.85 18.75
-L -2.35 23.8
-M -3.1 14.45
-L -7.5 20.35
-M -6.95 6.9
-L -12.8 11.75 -16.9 13.75
-M 11.1 5.4
-L 9 6.5 4.9 8.6 7.75 14.15 8.7 16
-M -5.65 2.15
-L 3.6 9.25 4.9 8.6
-M 9 6.5
-L 3.6 1.4
-M 7.75 14.15
-L 4.9 18.85 16.5 25.45
-M 10.75 22.65
-L 5.75 25.9
-M -8.3 3.15
-L -12.15 -3.5
-M -14.6 -1.3
-L -16.9 1
-M -1.8 -12.25
-L -3.9 -10.65 -6.4 -8.85"/>
-
-<path id="Symbol_148_19_Layer0_0_1_STROKES" stroke="#00FFFF" stroke-width="6" stroke-linejoin="round" stroke-linecap="butt" fill="none" d="
-M -1.85 -12.5
-Q -4.6 -4.45 -1.85 2.4 1.5 10.1 -1.85 17.25"/>
-
-<path id="Symbol_152_19_Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" stroke-linecap="butt" fill="none" d="
-M -1.85 -12.5
-Q -4.6 -4.45 -1.85 2.4 1.5 10.1 -1.85 17.25"/>
-</defs>
-
-<g transform="matrix( 0.606292724609375, 0, 0, 0.9954681396484375, 15.9,14) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use xlink:href="#Symbol_144_7_Layer1_0_1_STROKES"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 16.8,12.75) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use xlink:href="#Symbol_148_19_Layer0_0_1_STROKES"/>
-</g>
-</g>
-
-<g transform="matrix( 1, 0, 0, 1, 16.8,12.75) ">
-<g transform="matrix( 1, 0, 0, 1, 0,0) ">
-<use xlink:href="#Symbol_152_19_Layer0_0_1_STROKES"/>
-</g>
-</g>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 60" width="30" height="60">
+	<title>New Project</title>
+	<defs>
+		<image width="30" height="30" id="img1" href="data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMwcHgiIGhlaWdodD0iMzBweCIgdmlld0JveD0iMCAwIDMwIDMwIj4KPGRlZnM+CjxwYXRoIGlkPSJTeW1ib2xfMTQ0XzdfTGF5ZXIxXzBfMV9TVFJPS0VTIiBzdHJva2U9IiNGRkZGMDAiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIiBkPSIKTSA3LjEgLTkuNzUKTCAxMC45NSAtNi44NSA5LjcgLTMuMSAxMi42IC0wLjUKTSAtNC4xNSAtMy44NQpMIDQuNiAtNy43NSA5LjcgLTMuMQpNIC04LjI1IC0xNy44CkwgLTEzLjEgLTE4LjIKTSAtMy45IC0xMC42NQpMIC05LjM1IC0xNS4zNSAtNy4xIC0xOC43Ck0gLTYuNCAtOC44NQpMIC0zLjA1IDAuMTUgLTguMyAzLjE1IC05LjkgNCAtNi45NSA2LjkgLTYuNjUgNi42NQpNIC0xMi40IC0zLjUKTCAtMTQuNiAtMS4zIC0xMy4zIDMuNApNIC02Ljk1IDYuOQpMIC0zLjQgMTAuNCAtMi4xNSAxNy40Ck0gLTUuODUgMTguNzUKTCAtMi4zNSAyMy44Ck0gLTMuMSAxNC40NQpMIC03LjUgMjAuMzUKTSAtNi45NSA2LjkKTCAtMTIuOCAxMS43NSAtMTYuOSAxMy43NQpNIDExLjEgNS40CkwgOSA2LjUgNC45IDguNiA3Ljc1IDE0LjE1IDguNyAxNgpNIC01LjY1IDIuMTUKTCAzLjYgOS4yNSA0LjkgOC42Ck0gOSA2LjUKTCAzLjYgMS40Ck0gNy43NSAxNC4xNQpMIDQuOSAxOC44NSAxNi41IDI1LjQ1Ck0gMTAuNzUgMjIuNjUKTCA1Ljc1IDI1LjkKTSAtOC4zIDMuMTUKTCAtMTIuMTUgLTMuNQpNIC0xNC42IC0xLjMKTCAtMTYuOSAxCk0gLTEuOCAtMTIuMjUKTCAtMy45IC0xMC42NSAtNi40IC04Ljg1Ii8+Cgo8cGF0aCBpZD0iU3ltYm9sXzE0OF8xOV9MYXllcjBfMF8xX1NUUk9LRVMiIHN0cm9rZT0iIzAwRkZGRiIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgZmlsbD0ibm9uZSIgZD0iCk0gLTEuODUgLTEyLjUKUSAtNC42IC00LjQ1IC0xLjg1IDIuNCAxLjUgMTAuMSAtMS44NSAxNy4yNSIvPgoKPHBhdGggaWQ9IlN5bWJvbF8xNTJfMTlfTGF5ZXIwXzBfMV9TVFJPS0VTIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIGZpbGw9Im5vbmUiIGQ9IgpNIC0xLjg1IC0xMi41ClEgLTQuNiAtNC40NSAtMS44NSAyLjQgMS41IDEwLjEgLTEuODUgMTcuMjUiLz4KPC9kZWZzPgoKPGcgdHJhbnNmb3JtPSJtYXRyaXgoIDAuNjA2MjkyNzI0NjA5Mzc1LCAwLCAwLCAwLjk5NTQ2ODEzOTY0ODQzNzUsIDE1LjksMTQpICI+CjxnIHRyYW5zZm9ybT0ibWF0cml4KCAxLCAwLCAwLCAxLCAwLDApICI+Cjx1c2UgeGxpbms6aHJlZj0iI1N5bWJvbF8xNDRfN19MYXllcjFfMF8xX1NUUk9LRVMiLz4KPC9nPgo8L2c+Cgo8ZyB0cmFuc2Zvcm09Im1hdHJpeCggMSwgMCwgMCwgMSwgMTYuOCwxMi43NSkgIj4KPGcgdHJhbnNmb3JtPSJtYXRyaXgoIDEsIDAsIDAsIDEsIDAsMCkgIj4KPHVzZSB4bGluazpocmVmPSIjU3ltYm9sXzE0OF8xOV9MYXllcjBfMF8xX1NUUk9LRVMiLz4KPC9nPgo8L2c+Cgo8ZyB0cmFuc2Zvcm09Im1hdHJpeCggMSwgMCwgMCwgMSwgMTYuOCwxMi43NSkgIj4KPGcgdHJhbnNmb3JtPSJtYXRyaXgoIDEsIDAsIDAsIDEsIDAsMCkgIj4KPHVzZSB4bGluazpocmVmPSIjU3ltYm9sXzE1Ml8xOV9MYXllcjBfMF8xX1NUUk9LRVMiLz4KPC9nPgo8L2c+Cjwvc3ZnPgo="/>
+	</defs>
+	<style>
+	</style>
+	<use id="b0075f0000" href="#img1" transform="matrix(1,0,0,1,0,15)"/>
 </svg>
