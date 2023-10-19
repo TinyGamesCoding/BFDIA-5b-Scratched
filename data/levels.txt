@@ -1,4 +1,4 @@
-loadedLevels=
+
 A Whole New World
 32,18,01,00,L
 ...............................:
